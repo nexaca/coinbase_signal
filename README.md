@@ -61,10 +61,10 @@ Supported coins given below:
 
 
 ## USAGE: 
-1. install the 'telegram-send' via 'pip install telegram-send' or 'pip install telegram-send'
-2. create a bot from 'botfather' and get API key
-3. run the 'telegram-send --configure' and paste your bot Token
-4. run your program from your terminal 'python3 coinbase.py'
+1. install the ´telegram-send´ via ´pip install telegram-send´ or ´pip install telegram-send´
+2. create a bot from ´botfather´ and get API key
+3. run the ´telegram-send --configure´ and paste your bot Token
+4. run your program from your terminal ´python3 coinbase.py´
 5. set your supported currency 
 6. set your target price 
 7. set your interval timer (3 seconds or more)
